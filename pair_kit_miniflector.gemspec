@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.extra_rdoc_files = ['README.md']
 
   spec.add_development_dependency 'pry-byebug', '~> 3.10', '>= 3.10.1'
-  spec.add_development_dependency 'pry-alias', '>= 0.0.1'
+  spec.add_development_dependency 'pry-alias', '~> 0.0', '>= 0.0.1'
 
   spec.add_development_dependency 'rubocop', '~> 1.64'
   spec.add_development_dependency 'rubocop-performance', '~> 1.20'
