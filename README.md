@@ -1,13 +1,6 @@
 # PairKit::Miniflector 
 
-This gem helps to build custom DSL. More documentation coming later.
-
----
-**NOTE**
-
-More documentation coming soon.
-
----
+This is minimalistic inflector. It allows Pair Kit to be an independent library
 
 ## Usage 
    
